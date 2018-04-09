@@ -5,6 +5,9 @@
   "author": "iwe7 <1037483576@qq.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "git": "git add . && git commit -m '完善功能' && git push origin master"
+  },
   "peerDependencies": {
     "@angular/core": "*",
     "@angular/common": "*",
